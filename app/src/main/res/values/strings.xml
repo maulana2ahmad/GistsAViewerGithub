@@ -8,5 +8,10 @@
 	<string name="title_nav_gist_profile">Profile</string>
 
 	<!-- TODO: Remove or change this placeholder text -->
-	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="item_gist_avatar_desc">Gist owner avatar</string>
+
+	<!--TODO: Image empty-->
+	<string name="image_gists_empty_desc">Empty list image</string>
+	<string name="label_gists_empty1">We didn\'t find any gists</string>
+	<string name="label_gists_empty2">Check your internet connection and try again</string>
 </resources>
